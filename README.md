@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![Screenshot description](screenshots/ss1.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.

@@ -67,7 +67,7 @@ class MyApp extends StatelessWidget {
                   contentPadding: EdgeInsets.symmetric(horizontal: 20.0),
                   leading: Icon(Icons.email, color: Colors.cyan[700]),
                   title: Text(
-                    "Yosrybadr@icloud.com",
+                    "Yosry.jobs@gmail.com",
                     style: TextStyle(
                       color: Colors.black87,
                       fontSize: 20,
